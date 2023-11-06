@@ -14,7 +14,13 @@ public class TareaUnoIntecap {
         /*EjercicioDos dos = new EjercicioDos();
         dos.dia();*/
         
-        EjerciciosTres tres = new EjerciciosTres();
-        tres.numero();
+        /*EjerciciosTres tres = new EjerciciosTres();
+        tres.numero();*/
+        
+        /*EjercicioCuatro cuatro = new EjercicioCuatro();
+        cuatro.convert();*/
+        
+        EjercicioQuinto quinto = new EjercicioQuinto();
+        quinto.radioCircunferencia();
     }
 }
